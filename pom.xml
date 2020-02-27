@@ -38,7 +38,8 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.6.0</version>
         <configuration>
-          <mainClass>com.example.Main</mainClass>
+          <!-- <mainClass>com.example.SimpleExample</mainClass> -->
+          <mainClass>com.example.MemoryExample</mainClass>
         </configuration>
       </plugin>
     </plugins>
